@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box; 
+}
+body {
+  margin: 0; 
+  font-weight: 500;
+  font-family: 'HelveticaNeue';
+}
+
+section {
+  width: 100%;
+    
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  background-color: #FFF;
+  height: 90vh;
+  
+}
+
+.contMap {
+  height: 80vh;
+}
+
+footer {
+  padding: 0.5% 1%;
+  text-align:center;
+  color: white;
+}
+
+nav{
+height: auto;
+}
